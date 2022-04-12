@@ -15,3 +15,6 @@ WORKDIR /app
 EXPOSE 5000
 
 ENTRYPOINT ["dotnet", "Conduit.dll"]
+
+
+
